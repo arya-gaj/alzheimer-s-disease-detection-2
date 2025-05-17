@@ -1,1 +1,1 @@
-# alzheimer-s-disease-detection-2
+# Speech-Based Alzheimer’s Disease Detection Using Custom CNN
